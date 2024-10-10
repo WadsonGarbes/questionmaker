@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=questionmaker
+POSTGRES_USER=gfSscvxgbtJVbIdkXPNDqTcULbDjUXiy
+POSTGRES_PASSWORD=zgkV8EQr8PPcilnybpEviqkkLSS5tVpuDULr9SnkEyOHHNr5dIluKB94XuiQHwAr
